@@ -1,0 +1,110 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "product1",
+      "category":  "Category 1",
+      "categoryname":  "Product 1 (Category 1)",
+      "rate": 100
+    },
+    {
+        "id": 2,
+        "name": "product2",
+        "category":  "Category 1",
+        "categoryname":  "Product 2 (Category 1)",
+        "rate": 100
+    },
+    {
+        "id": 3,
+        "name": "product3",
+        "category":  "Category 1",
+        "categoryname":  "Product 3 (Category 1)",
+        "rate": 100
+    },
+    {
+        "id": 4,
+        "name": "product4",
+        "category":  "Category 1",
+        "categoryname":"Product 4 (Category 1)",
+        "rate": 100
+    },
+    {
+        "id": 5,
+        "name": "product5",
+        "category":  "Category 1",
+        "categoryname": "Product 5 (Category 1)",
+        "rate": 100
+    },
+    {
+        "id": 6,
+        "name": "product6",
+        "category":  "Category 2",
+        "categoryname": "Product 6 (Category 2)",
+        "rate": 100
+    },
+    {
+        "id": 7,
+        "name": "product7",
+        "category":  "Category 2",
+        "categoryname": "Product 7 (Category 2)",
+        "rate": 100
+    },
+    {
+        "id": 8,
+        "name": "product8",
+        "category":  "Category 2",
+        "categoryname": "Product 8 (Category 2)",
+        "rate": 100
+    },
+    {
+        "id": 9,
+        "name": "product9",
+        "category":  "Category 2",
+        "categoryname": "Product 9 (Category 2)",
+        "rate": 100
+    },
+    {
+        "id": 10,
+        "name": "product10",
+        "category":  "Category 2",
+        "categoryname": "Product 10 (Category 2)",
+        "rate": 100
+    },
+    {
+        "id": 11,
+        "name": "product11",
+        "category":  "Category 3",
+        "categoryname": "Product 11 (Category 3)",
+        "rate": 100
+    },
+    {
+        "id": 12,
+        "name": "product12",
+        "category":  "Category 3",
+        "categoryname": "Product 12 (Category 3)",
+        "rate": 100
+    },
+    {
+        "id": 13,
+        "name": "product13",
+        "category":  "Category 3",
+        "categoryname": "Product 13 (Category 3)",
+        "rate": 100
+    },
+    {
+        "id": 14,
+        "name": "product14",
+        "category": "Category 3",
+        "categoryname": "Product 14 (Category 3)",
+        "rate": 100
+    },
+    {
+        "id": 15,
+        "name": "product15",
+        "category": "Category 3",
+        "categoryname": "Product 15 (Category 3)",
+        "rate": 100
+    }
+   
+  ]
+}
